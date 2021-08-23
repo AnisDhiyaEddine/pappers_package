@@ -1,0 +1,48 @@
+# PappersApi.Ratios
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**chiffreAffaires** | **Number** | Chiffre d&#39;affaires de l&#39;entreprise. | [optional] 
+**resultat** | **Number** | Résultat de l&#39;entreprise. | [optional] 
+**effectif** | **Number** | Effectif de l&#39;entreprise. | [optional] 
+**margeBrute** | **Number** | Marge brute de l&#39;entreprise. | [optional] 
+**excedentBrutExploitation** | **Number** | Excédent brut d&#39;exploitation (EBITDA) de l&#39;entreprise. | [optional] 
+**resultatExploitation** | **Number** | Résultat d&#39;exploitation (EBIT) de l&#39;entreprise. | [optional] 
+**tauxCroissanceChiffreAffaires** | **Number** | Taux de croissance du chiffre d&#39;affaires (en %) de l&#39;entreprise. | [optional] 
+**tauxMargeBrute** | **Number** | Taux de marge brute (en %) de l&#39;entreprise. | [optional] 
+**tauxMargeEBITDA** | **Number** | Taux de marge d&#39;EBITDA (en %) de l&#39;entreprise. | [optional] 
+**tauxMargeOperationnelle** | **Number** | Taux de marge opérationnelle (EBIT) (en %) de l&#39;entreprise. | [optional] 
+**BFR** | **Number** | BFR (Besoin en fonds de roulement) de l&#39;entreprise. | [optional] 
+**bFRExploitation** | **Number** | BFR exploitation de l&#39;entreprise. | [optional] 
+**bFRHorsExploitation** | **Number** | BFR hors exploitation de l&#39;entreprise. | [optional] 
+**bFRJoursCA** | **Number** | BFR (en jours de CA) de l&#39;entreprise. | [optional] 
+**bFRExploitationJoursCA** | **Number** | BFR exploitation (en jours de CA) de l&#39;entreprise. | [optional] 
+**bFRHorsExploitationJoursCA** | **Number** | BFR hors exploitation (en jours de CA) de l&#39;entreprise. | [optional] 
+**delaiPaiementClientsJours** | **Number** | Délai de paiement clients (en jours) de l&#39;entreprise. | [optional] 
+**delaiPaiementFournisseursJours** | **Number** | Délai de paiement fournisseurs (en jours) de l&#39;entreprise. | [optional] 
+**ratioStockCAJours** | **Number** | Ratio des stocks / CA (en jours) de l&#39;entreprise. | [optional] 
+**capaciteAutofinancement** | **Number** | Capacité d&#39;autofinancement de l&#39;entreprise. | [optional] 
+**capaciteAutofinancementCA** | **Number** | Capacité d&#39;autofinancement / CA (en %) de l&#39;entreprise. | [optional] 
+**fondsRoulementNetGlobal** | **Number** | Fonds de roulement net global de l&#39;entreprise. | [optional] 
+**couvertureBFR** | **Number** | Couverture du BFR de l&#39;entreprise. | [optional] 
+**tresorerie** | **Number** | Trésorerie de l&#39;entreprise. | [optional] 
+**dettesFinancieres** | **Number** | Dettes financières de l&#39;entreprise. | [optional] 
+**capaciteRemboursement** | **Number** | Capacité de remboursement de l&#39;entreprise. | [optional] 
+**ratioEndettement** | **Number** | Ratio d&#39;endettement (Gearing) de l&#39;entreprise. | [optional] 
+**autonomieFinanciere** | **Number** | Autonomie financière (en %) de l&#39;entreprise. | [optional] 
+**tauxLevier** | **Number** | Taux de levier (DFN/EBITDA) de l&#39;entreprise. | [optional] 
+**etatDettes1AnAuPlus** | **Number** | Etat des dettes à 1 an au plus de l&#39;entreprise. | [optional] 
+**liquiditeGenerale** | **Number** | Liquidité générale de l&#39;entreprise. | [optional] 
+**couvertureDettes** | **Number** | Couverture des dettes de l&#39;entreprise. | [optional] 
+**margeNette** | **Number** | Marge nette (en %) de l&#39;entreprise. | [optional] 
+**rentabiliteFondsPropres** | **Number** | Rentabilité sur fonds propres (en %) de l&#39;entreprise. | [optional] 
+**rentabiliteEconomique** | **Number** | Rentabilité économique (en %) de l&#39;entreprise. | [optional] 
+**valeurAjoutee** | **Number** | Valeur ajoutée de l&#39;entreprise. | [optional] 
+**valeurAjouteeCA** | **Number** | Valeur ajoutée / CA (en %) de l&#39;entreprise. | [optional] 
+**salairesChargesSociales** | **Number** | Salaires et charges sociales de l&#39;entreprise. | [optional] 
+**salairesCA** | **Number** | Salaires / CA (en %) de l&#39;entreprise. | [optional] 
+**impotsTaxes** | **Number** | Impôts et taxes de l&#39;entreprise. | [optional] 
+
+
